@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-30T12:43:00 SAST" name="Default suite" finished-at="2021-07-30T12:43:29 SAST" duration-ms="28342">
+    <groups>
+    </groups>
+    <test started-at="2021-07-30T12:43:00 SAST" name="Default test" finished-at="2021-07-30T12:43:29 SAST" duration-ms="28342">
+      <class name="ilab.tests.HybridTest">
+        <test-method is-config="true" signature="launchApp()[pri:0, instance:ilab.tests.HybridTest@15bbf42f]" started-at="2021-07-30T12:43:00 SAST" name="launchApp" finished-at="2021-07-30T12:43:15 SAST" duration-ms="14544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="ILABTestSuite()[pri:0, instance:ilab.tests.HybridTest@15bbf42f]" started-at="2021-07-30T12:43:15 SAST" name="ILABTestSuite" finished-at="2021-07-30T12:43:29 SAST" duration-ms="13738" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ILABTestSuite -->
+      </class> <!-- ilab.tests.HybridTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
